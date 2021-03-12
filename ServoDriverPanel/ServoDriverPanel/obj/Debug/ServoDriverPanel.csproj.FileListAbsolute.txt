@@ -1,0 +1,9 @@
+D:\Visual C#\ServoDriverPanel\ServoDriverPanel\bin\Debug\ServoDriverPanel.exe.config
+D:\Visual C#\ServoDriverPanel\ServoDriverPanel\bin\Debug\ServoDriverPanel.exe
+D:\Visual C#\ServoDriverPanel\ServoDriverPanel\bin\Debug\ServoDriverPanel.pdb
+D:\Visual C#\ServoDriverPanel\ServoDriverPanel\obj\Debug\ServoDriverPanel.csprojResolveAssemblyReference.cache
+D:\Visual C#\ServoDriverPanel\ServoDriverPanel\obj\Debug\ServoDriverPanel.Form1.resources
+D:\Visual C#\ServoDriverPanel\ServoDriverPanel\obj\Debug\ServoDriverPanel.Properties.Resources.resources
+D:\Visual C#\ServoDriverPanel\ServoDriverPanel\obj\Debug\ServoDriverPanel.csproj.GenerateResource.Cache
+D:\Visual C#\ServoDriverPanel\ServoDriverPanel\obj\Debug\ServoDriverPanel.exe
+D:\Visual C#\ServoDriverPanel\ServoDriverPanel\obj\Debug\ServoDriverPanel.pdb
